@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+}
+
+.info
+{
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+#disk_speed, #disk_volume
+{
+    width: 200px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 6px solid tomato;
+    border-radius: 20px;
+}
